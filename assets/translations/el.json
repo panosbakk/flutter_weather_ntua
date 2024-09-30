@@ -1,0 +1,38 @@
+{
+    "home": {
+        "hourlyWeather": "Καιρός ανά ώρα",
+        "dailyWeather": "Ημερήσιος καιρός",
+        "now": "Τώρα",
+        "today": "Σήμερα"
+    },
+    "settings": {
+        "settings": "Ρυθμίσεις",
+        "unit": "Μονάδα μέτρησης",
+        "lang": "Γλώσσα"
+    },
+    "wmos": {
+        "clearSky": "Καθαρός ουρανός",
+        "partlyCloud": "Αραιές νεφώσεις",
+        "fog": "Ομίχλη",
+        "drizzle": "Ψιχάλα",
+        "rain": "Βροχή",
+        "freezingRain": "Χιονόνερο",
+        "freezingDrizzle": "Χιονόνερο",
+        "snowFall": "Χιονόπτωση",
+        "snowGrains": "Χιονυφάδες",
+        "rainShower": "Καρέκλες",
+        "snowShowers": "Χιονοθύελλα",
+        "thunderStorm": "Καταιγίδα",
+        "unknown": "Άγνωστο"
+    },
+    "days": {
+        "monday": "Δευτέρα",
+        "tuesday": "Τρίτη",
+        "wednesday": "Τετάρτη",
+        "thursday": "Πέμπτη",
+        "friday": "Παρασκευή",
+        "saturday": "Σάββατο",
+        "sunday": "Κυριακή",
+        "today": "Σήμερα"
+    }
+}
