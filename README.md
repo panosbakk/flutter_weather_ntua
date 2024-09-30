@@ -1,2 +1,13 @@
-# flutter_weather_ntua
-Semester project for the course of Human-Computer Interaction course of the school of ECE@NTUA. A weather app developed using Flutter and a weather API to get the weather for each city we have dynamically
+# Basic weather app made in flutter
+
+You can start the weather app by running
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Developers
+
+- Panos Bakaloudis 03119600
+- Eleftherios Tournaris 0318845
